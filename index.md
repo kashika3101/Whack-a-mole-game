@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<html>
 
 <html lang="en">
 
@@ -6,7 +6,7 @@
 
   <meta charset="UTF-8">
 
-  <title>Whack A Mole!</title>
+  
 
   <link href='https://fonts.googleapis.com/css?family=Amatic+SC:400,700' rel='stylesheet' type='text/css'>
 
