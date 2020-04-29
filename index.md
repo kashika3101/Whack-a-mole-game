@@ -10,7 +10,7 @@
 
   <link href='https://fonts.googleapis.com/css?family=Amatic+SC:400,700' rel='stylesheet' type='text/css'>
 
-  <link rel="stylesheet" href="mole.css">
+  <link rel="stylesheet" href="style.css">
 
 </head>
 
